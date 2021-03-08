@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Reema-midT1</string>
+    <string name="goto2">Go to Act 2</string>
+    <string name="goto3">Go to Act 3</string>
+    <string name="goto1">Go to Act 1</string>
+    <string name="in2">You are in Activity 2</string>
+    <string name="in3">You are in Activity 3</string>
+    <string name="in1">You are in Activity 1</string>
+    <string name="entername">Insert your name</string>
+    <string name="enterbirth">Insert birth date details</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="student">Student</string>
+    <string name="instructor">Insturctor</string>
+    <string name="done">done</string>
+
+</resources>
